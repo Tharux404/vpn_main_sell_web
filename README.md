@@ -1,7 +1,7 @@
 # VPN/V2Ray Subscription Service
 
 <p align="center">
-  <img src="images/web.jpg" alt="WhatsApp PDF Bot Banner" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="images/What-is-VPN-image.jpg" alt="WhatsApp PDF Bot Banner" width="800" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>
 
 A modern, full-featured subscription-based VPN/V2Ray service website built with Flask and SQLite3.
